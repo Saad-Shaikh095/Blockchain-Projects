@@ -1,4 +1,4 @@
-### 🗳️ Blockchain Voting System (Python)
+# 🗳️ Blockchain Voting System (Python)
 
 A simple Blockchain-based Voting System written in Python.
 Each vote is stored as a block, linked by cryptographic hashes, ensuring transparency and preventing tampering.
@@ -22,7 +22,7 @@ It also prevents double voting using a voter ID system.
 
 voting_blockchain.py → Main script containing the blockchain and voting logic.
 
-# 🚀 How to Run
+### 🚀 How to Run
 
 Run the program:
 
