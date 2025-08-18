@@ -1,4 +1,4 @@
-🧱 Basic Interactive Blockchain in Python
+# 🧱 Basic Interactive Blockchain in Python
 
 A very simple blockchain implementation written in pure Python.
 This project demonstrates the core idea of blockchains — chaining blocks using hashes — in an easy-to-understand way.
