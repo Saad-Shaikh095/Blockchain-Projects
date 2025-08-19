@@ -1,9 +1,9 @@
-🗳️ Blockchain Voting System
+# 🗳️ Blockchain Voting System
 
 A simple Python-based voting system that uses blockchain technology to securely record votes.
 Each vote is stored as a block, ensuring transparency, immutability, and integrity of the election process.
 
-🚀 Features
+## 🚀 Features
 
 Cast Votes — securely add votes to the blockchain
 
@@ -15,7 +15,7 @@ Vote Counting — tally votes for each candidate
 
 Chain Validation — ensures no tampering in the blockchain
 
-📂 File
+## 📂 File
 
 voting_blockchain.py — main script with blockchain-based voting logic
 
@@ -23,7 +23,7 @@ voting_blockchain.py — main script with blockchain-based voting logic
 # Run with Python 3
 python voting_blockchain.py
 
-🖥️ Example Usage
+## 🖥️ Example Usage
 --- Blockchain Voting System ---
 1. Cast a vote
 2. Show Blockchain
@@ -39,7 +39,7 @@ Choose 3 → Show live vote counts per candidate
 
 Choose 4 → Exit the program
 
-📊 Sample Output
+## 📊 Sample Output
 ✅ Vote added: Alice voted for Bob
 
 --- Voting Results ---
@@ -54,7 +54,7 @@ Data (Vote): Alice voted for Bob
 Hash: 2f93f91a2b8...
 Previous Hash: 0000a1c93b...
 
-💡 What You Learn
+## 💡 What You Learn
 
 Basics of blockchain data structure
 
@@ -62,7 +62,7 @@ How immutability and hashing ensure election integrity
 
 Securely recording votes with linked blocks
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This is an educational project only.
 It is not meant for real elections and does not implement features like encryption, authentication, or large-scale security.
