@@ -1,11 +1,11 @@
-📝 Blockchain To-Do List
+# 📝 Blockchain To-Do List
 
 A simple to-do list manager built on top of a blockchain concept.
 Each task you add becomes a block in the chain, linked by cryptographic hashes.
 
 This ensures tasks are tamper-proof and chronologically ordered—a fun way to learn blockchain basics!
 
-🚀 Features
+## 🚀 Features
 
 Add new tasks as blocks in the blockchain
 
@@ -19,11 +19,11 @@ Interactive menu-based interface (no external libraries needed)
 
 todo_blockchain.py — main script with Block and Blockchain classes
 
-▶️ How to Run
+## ▶️ How to Run
 # Run with Python 3
 python todo_blockchain.py
 
-🖥️ Example Usage
+## 🖥️ Example Usage
 ===== Blockchain To-Do List =====
 1. Add a new task
 2. View all tasks
@@ -39,7 +39,7 @@ Choose 3 → Verify if blockchain is valid
 
 Choose 4 → Exit
 
-💡 What You Learn
+## 💡 What You Learn
 
 Basics of blockchain (hashing, linking blocks, immutability)
 
@@ -47,7 +47,7 @@ How data (tasks) can be securely stored using cryptographic hashes
 
 Simple Python class-based design
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project is for educational purposes only.
 It’s a toy implementation and not suitable for real-world blockchain applications.
